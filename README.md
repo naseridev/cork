@@ -75,8 +75,7 @@ cargo build --release
   --rules rules.json \
   --cert server.crt \
   --key server.key \
-  --log-format json \
-  --stats
+  --log-format json 
 ```
 
 ## Command Line Options
