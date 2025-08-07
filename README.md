@@ -50,7 +50,7 @@ The project relies on several key Rust crates:
 
 ### Build Instructions
 ```bash
-git clone <repository-url>
+git clone https://github.com/naseridev/cork.git
 cd cork
 cargo build --release
 ```
